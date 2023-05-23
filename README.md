@@ -16,5 +16,7 @@ inner 1 : ground
 inner 2: ground
 bottom layer: signal+VCC
 
+JLCPCB link: https://jlcpcb.com/HAR
+
 
 
